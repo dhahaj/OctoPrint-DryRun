@@ -22,7 +22,6 @@
 # following email address: FormerLurker@pm.me
 ##################################################################################
 import operator
-from six import string_types
 import re
 
 from octoprint_DryRun import utility
@@ -46,7 +45,7 @@ class CommandParameter(object):
 
     @staticmethod
     def parse_float(parameter_string):
-        assert (isinstance(parameter_string, string_types))
+        assert (isinstance(parameter_string, str))
         parameter_string = parameter_string.lstrip()
 
         index = 0
