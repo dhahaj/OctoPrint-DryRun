@@ -4,15 +4,15 @@ layout: plugin
 id: DryRun
 title: DryRun
 description: Execute printing without heating and extrusion
-author: OllisGit
+author: dhahaj
 license: AGPLv3
 
 # TODO
 date: today's date in format YYYY-MM-DD, e.g. 2015-04-21
 
-homepage: https://github.com/OllisGit/OctoPrint-DryRun
-source: https://github.com/OllisGit/OctoPrint-DryRun
-archive: https://github.com/OllisGit/OctoPrint-DryRun/archive/master.zip
+homepage: https://github.com/dhahaj/OctoPrint-DryRun
+source: https://github.com/dhahaj/OctoPrint-DryRun
+archive: https://github.com/dhahaj/OctoPrint-DryRun/archive/master.zip
 
 # TODO
 # Set this to true if your plugin uses the dependency_links setup parameter to include
