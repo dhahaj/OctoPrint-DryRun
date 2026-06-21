@@ -5,11 +5,6 @@
 
 A Octoprint-Plugin that allows to execute a print without heating your bed or nozzle, turning on any fans, or extruding any filament.
 
-#### Support my Efforts
-
-This plugin, as well as my [other plugins](https://github.com/OllisGit/) were developed in my spare time.
-If you like it, I would be thankful about a cup of coffee :)
-
 [![More coffee, more code](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6SW5R6ZUKLB5E&source=url)
 
 ## Details
@@ -22,10 +17,10 @@ The implementation is based on the "test-mode" from [Octolapse](https://github.c
 Install via the bundled [Plugin Manager](http://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/OllisGit/OctoPrint-DryRun/releases/latest/download/master.zip
+    https://github.com/dhahaj/OctoPrint-DryRun/releases/latest/download/master.zip
 
 ## Configuration
 Done via Settings-Menü
 
 ## Versions
-see [Release-Overview](https://github.com/OllisGit/OctoPrint-DryRun/releases/)
+see [Release-Overview](https://github.com/dhahaj/OctoPrint-DryRun/releases/)
