@@ -8,8 +8,6 @@ from flask import make_response
 
 from octoprint_DryRun.gcode_parser import Commands, ParsedCommand, Response
 
-__plugin_pythoncompat__ = ">=3,<4"
-
 class DryrunPlugin(octoprint.plugin.SettingsPlugin,
                    octoprint.plugin.AssetPlugin,
                    octoprint.plugin.TemplatePlugin,
